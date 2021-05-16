@@ -1,0 +1,12 @@
+{
+    "date": "2021/05/04",
+    "time": "12:00:00",
+    "score": 80,
+    "food": "Noodles",
+    "waste": [
+        { "type": "vegetables", "amount": 10 },
+        { "type": "meat", "amount": 3 },
+        { "type": "rice", "amount": 5 },
+        { "type": "others", "amount": 12 }
+    ]
+}

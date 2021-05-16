@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,n,t){"use strict";t.r(n);var o=t("7a23");function a(e,n,t,a,c,r){return Object(o["openBlock"])(),Object(o["createBlock"])("h1",null,"Smart Canteen Project")}var c={name:"About"};c.render=a;n["default"]=c}}]);
+//# sourceMappingURL=about.a92ea499.js.map

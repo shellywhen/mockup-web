@@ -1,0 +1,72 @@
+[{
+    "name": "Monica Geller",
+    "school": "FOOD",
+    "score": 9999,
+    "type": "Staff",
+    "itsc": "mncia",
+    "profile": "./dataset/figures/test.jpg"
+  }, {
+    "name": "Ross Geller",
+    "school": "GEO",
+    "score": 8888,
+    "type": "Prof.",
+    "itsc": "rghhh",
+    "profile": "./dataset/figures/test.jpg"
+  }, {
+    "name": "Chandler Bing",
+    "school": "ECON",
+    "score": 7200,
+    "type": "PG",
+    "itsc": "cbaaa",
+    "profile": "./dataset/figures/test.jpg"
+  }, {
+    "name": "Phoebe Buffay",
+    "school": "SING",
+    "score": 6666,
+    "type": "UG",
+    "itsc": "pbaaa",
+    "profile": "./dataset/figures/test.jpg"
+  }, {
+    "name": "Racheal Green",
+    "school": "LANG",
+    "score": 2222,
+    "type": "UG",
+    "itsc": "rgcia",
+    "profile": "./dataset/figures/test.jpg"
+  }, {
+    "name": "Joey Tribbiani",
+    "school": "ACT",
+    "score": 100,
+    "type": "UG",
+    "itsc": "mncia",
+    "profile": "./dataset/figures/test.jpg"
+  }, {
+    "name": "Sheldon Cooper",
+    "school": "PHYS",
+    "score": 67,
+    "type": "Prof",
+    "itsc": "scaaa",
+    "profile": "./dataset/figures/test.jpg"
+  }, {
+    "name": "Amy F. Fowler",
+    "school": "BIO",
+    "score": 52,
+    "type": "Prof",
+    "itsc": "afaaa",
+    "profile": "./dataset/figures/test.jpg"
+  },  {
+    "name": "Stuart Bloom",
+    "school": "COMIC",
+    "score": 31,
+    "type": "UG",
+    "itsc": "afaaa",
+    "profile": "./dataset/figures/test.jpg"
+  },  {
+    "name": "Penny",
+    "school": "ACT",
+    "score": 7,
+    "type": "UG",
+    "itsc": "penny",
+    "profile": "./dataset/figures/test.jpg"
+  }
+]
